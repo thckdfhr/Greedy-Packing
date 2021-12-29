@@ -30,5 +30,5 @@ packed_img, where_old_image, where_new_image, groups_groups = pack2(img, box_to_
 * * *
 example:
 
+![image](https://user-images.githubusercontent.com/48256991/147637932-06344195-ec92-400a-ae96-214e8a8c5ce7.png)   
 ![image](https://user-images.githubusercontent.com/48256991/147637938-570cd82a-b212-4600-a459-5c88816775e8.png)
-![image](https://user-images.githubusercontent.com/48256991/147637932-06344195-ec92-400a-ae96-214e8a8c5ce7.png)
