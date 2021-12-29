@@ -24,4 +24,5 @@ packed_img, where_old_image, where_new_image, groups_groups = pack2(img, box_to_
 ```
 
 
+![image](https://user-images.githubusercontent.com/48256991/147637738-21b6e1e9-ade5-4e43-9bf0-45a5b7bcbcb2.png)
 
