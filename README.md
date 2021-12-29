@@ -2,7 +2,7 @@
 ### bin packing problem
 
 '''
-This code is for bin packing problem with recatnagle boxes in image.   
+This code is for bin-packing problem with recatnagle boxes in image.   
 This code greedly pack all the boxes in small region.   
 The key idea is packing two box, repeatedly by specific order.   
 '''
