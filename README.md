@@ -8,12 +8,12 @@ The key idea is packing two box, repeatedly by specific order.
 ```   
 
 
-#### First size difference makes overhead so divide groups with big size difference.
+#### First size difference makes overhead so divide groups with big size difference.   
 
 ![image](https://user-images.githubusercontent.com/48256991/147639069-4ca107c2-6639-42f2-aad0-bf0dbf9ad289.png)
 
 
-#### Then shape of recatangles makes overhead so add the box by vertically or horizontally by the shape of box.
+#### Then shape of recatangles makes overhead so add the box by vertically or horizontally by the shape of box.   
 ![image](https://user-images.githubusercontent.com/48256991/147639246-4d7b0ae2-4edc-40ba-8a56-e054ff90c05c.png)
 
 * * *
