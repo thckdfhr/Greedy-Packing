@@ -3,8 +3,8 @@ bin packing problem
 * * *
 
 
-*input: img([B,C,H,W]), box_to_pack([N,4], None, None, None   
-*output : packed_img([B,C,H,W]), where_old_image, where_new_image, groups_groups
+input: img([B,C,H,W]),  box_to_pack([N,4],    None,    None,    None   
+output : packed_img([B,C,H,W]), where_old_image, where_new_image, groups_groups
    
    
 ```
