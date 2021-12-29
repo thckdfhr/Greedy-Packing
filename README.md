@@ -35,6 +35,8 @@ groups_groups : The indexes of boxes which made the cutted place　　　　　�
 ```   
    
    
+* * *
+* * *
 
 code implement: 
 ```
