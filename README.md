@@ -17,6 +17,8 @@ The key idea is packing two box, repeatedly by specific order.
 ![image](https://user-images.githubusercontent.com/48256991/147639246-4d7b0ae2-4edc-40ba-8a56-e054ff90c05c.png)
 
 * * *
+* * *
+* * *
 
 
 input: img([B,C,H,W]), 　box_to_pack([N,4],　 None, 　None,　 None   
