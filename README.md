@@ -1,5 +1,5 @@
 # Greedy-Packing
-bin packing problem
+### bin packing problem
 
 This code is for bin packing problem with recatnagle boxes in image.   
 This code greedly pack all the boxes in small region.   
