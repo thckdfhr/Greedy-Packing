@@ -1,5 +1,6 @@
 # Greedy-Packing
 bin packing problem
+* * *
 
 
 input: img([B,C,H,W]), box_to_pack([N,4], None, None, None
