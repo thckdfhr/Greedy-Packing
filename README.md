@@ -23,7 +23,10 @@ groups_groups : The indexes of boxes which made the cutted place // List len M
 
 
 
-code implement: packed_img, where_old_image, where_new_image, groups_groups = pack2(img, box_to_pack, None, None, None)
+code implement: 
+```
+packed_img, where_old_image, where_new_image, groups_groups = pack2(img, box_to_pack, None, None, None)
+```
 
 
 
